@@ -3,6 +3,8 @@
 ![Modern C++ template][github-sub-title:img]
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ATGXicefires&show_icons=true&theme=tokyonight)](https://www.youtube.com/@ATGXicefires/featured)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ATGXicefires&theme=tokyonight&show_icons=true)
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,python,nodejs,html,css,javascript&theme=light)](https://skillicons.dev)
 
 [![youtube](https://img.shields.io/badge/Youtube-ATGXicefires-yellow)](https://www.youtube.com/@ATGXicefires/featured)
 ![](https://img.shields.io/badge/Code-C/C++%20Python%20應該不只這些就是ㄌ-blue)
